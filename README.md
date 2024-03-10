@@ -1,7 +1,7 @@
 # demo-DistDetection
  Demo of Distributed Detection
 
- **Description:** Demo of using multiple receiving nodes of detection
+ **Description:** Demo distributed multichannel detection
 
 **Key Word:**  RF radiators, Multi-channel Detection, GLRT
 
