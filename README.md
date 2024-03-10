@@ -10,4 +10,6 @@
 **People:**  Rui ZHOU, Wenqiang PU, Zehui ZHANG
 
 
-![alt text](分布式检测demo2s.gif)
+![alt text][def]
+
+[def]: 分布式检测demo2s.gif
